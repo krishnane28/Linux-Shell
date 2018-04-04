@@ -32,7 +32,7 @@ explicitly free up memeory
 - My shell implementation works only for one pipe 
  
 - Redirection is not implemented 
-(I am working on it and I will try to implement this before demo)
+(I will implement it in future)
  
 - Shell builtin commands doesn't work in my shell	
 	
