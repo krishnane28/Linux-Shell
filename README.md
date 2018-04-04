@@ -41,14 +41,16 @@ explicitly free up memeory
 ## BUGS:
  
  
-* If the user doesn't enter any commands and press enter I am capturing it and displaying the appropriate error message 
+- If the user doesn't enter any commands and press enter I am capturing it and displaying the appropriate error message 
 in
  my program
  
-* If the user doesn't enter valid commands, I am displaying appropriate message
+- If the user doesn't enter valid commands, I am displaying appropriate message
 
-ASSUMPTIONS:
+
+
+## ASSUMPTIONS:
   
   
-* I have made an assumption that user will not enter more than 80 tokens in a string(which is nothing but the commands)
+- I have made an assumption that user will not enter more than 80 tokens in a string(which is nothing but the commands)
 
